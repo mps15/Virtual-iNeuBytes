@@ -4,4 +4,4 @@
 
 [ project21 ]Task  : Random Joke Generator with API.
 
-[ netflix-Clone1 ]  Major Task Title : Clone the Netflix website
+[ netflix-Clone1 ]  Major Task Title : Clone the Netflix website.
